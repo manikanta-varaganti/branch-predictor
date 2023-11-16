@@ -1,0 +1,7 @@
+COMMAND
+./sim smith 4 perl_trace.txt
+OUTPUT
+number of predictions:		2000000
+number of mispredictions:	934739
+misprediction rate:		46.74%
+FINAL COUNTER CONTENT:		9
